@@ -1,9 +1,13 @@
+![tumblr_owi25v6uAo1r4gsiio1_1280_gif (1000×300)](https://github.com/user-attachments/assets/6629ee58-81ce-4f52-98c8-01d707b8e9e3)
+
+
+
 <h1 align="center">Hi 👋, I'm Sooraj</h1>
 <h3 align="center">MCA Student • Tech Enthusiast • Problem Solver</h3>
 
 <p align="center">
   <a href="#" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=320&lines=Welcome+to+my+GitHub;Learning+Something+New+Everyday" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=320&lines=Welcome+to+my+GitHub" />
   </a>
 </p>
 
